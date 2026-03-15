@@ -24,3 +24,6 @@ OUTPUT:
 (uploaded on top)
 
 RESULT:
+
+The experiment shows that different prompting techniques produce varying levels of summary quality across AI platforms.
+Among them, structured prompts like few-shot and role-based prompting generally produce more accurate, coherent, and student-friendly summaries.
